@@ -51,5 +51,16 @@
       "Webpack",
       "React"
     ]
+  },
+  {
+    "github": "cangku",
+    "name": "unofficial",
+    "blog": "https://www.unofficial.cn",
+    "tags": [
+      "Vue",
+      "Weex",
+      "React",
+      "ReactNative"
+    ]
   }
 ]
